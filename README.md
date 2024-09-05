@@ -7,7 +7,7 @@ This notebook includes the complete data pipeline,training procedures and genera
 
 ## Deployment
 The model is deployed within the `interface.html` file, which serves as the web interface for this application.
-You can interact with the model in [this inteface](https://github.com/Seddik-Turki/Sketch2Image/interface.html).
+You can interact with the model via the [inteface](https://seddik-turki.github.io/Sketch2Image/interface.html).
 
 ## Results
 ![Gnerated Image](images/output.png)
