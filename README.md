@@ -6,8 +6,8 @@ All the code for the model can be found in the notebook `Sketch2Image.ipynb`.
 This notebook includes the complete data pipeline,training procedures and generating Images.
 
 ## Deployment
-The model is deployed within the `interface.html` file, which serves as the web interface for the application.
-You can interact with the model in this web inteface0
+The model is deployed within the `interface.html` file, which serves as the web interface for this application.
+You can interact with the model in this web inteface.
 
 ## Results
 ![Gnerated Image](images/output.png)
