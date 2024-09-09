@@ -30,7 +30,7 @@
     async function loadModel() {
         console.log('Loading Model ...');
         const MODEL_URL = 'https://seddik-turki.github.io/Sketch2Image/tfjs_gen_model/model.json';
-        const model = await tf.loadGraphModel(MODEL_URL);
+        const model = await tf.loadLayersModel(MODEL_URL);
         console.log(model);
         console.log('model loaded!!');
         console.log(model.summary());
