@@ -10,4 +10,4 @@ The model is deployed as `TF.js` model within a web interface which you can inte
 via the [link](https://seddik-turki.github.io/Sketch2Image/interface.html).
 
 ## Results
-![Gnerated Image](images/output.png)
+![Gnerated Image](images/download.png)
