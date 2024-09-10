@@ -13,7 +13,8 @@ The model was trained on kaggle [notebook link](https://www.kaggle.com/code/sedd
 
 
 ### Web-Based Drawing Interface
-To make the model accessible and interactive, I developed a web-based interface hosted. This app allows users to create building facades by drawing on a canvas. The app provides various tools to design components such as windows, doors, balconies, and more, which are then used as input for the model.
+To make the model accessible and interactive, I developed a web-based interface hosted.Try the [app](https://seddik-turki.github.io/Sketch2Image/app.html)
+This app allows users to create building facades by drawing on a canvas. The app provides various tools to design components such as windows, doors, balconies, and more, which are then used as input for the model.
 
 you can find the full description of the classes in [here](https://cmp.felk.cvut.cz/~tylecr1/facade/CMP_facade_DB_2013.pdf)
 
